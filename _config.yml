@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E8E0E0'
+    - '#581030'
+    - '#A86878'
+    - '#A04850'
+    - '#E8B0C8'
+  brandStrength: 0.706081
+  lightness: 0.676108
+  rhythmicContrast: 0.489865
+  saturation: 0.48579
+cta: {}
+layout_spectrum: 0.973818
+name: 'Look Good, Feel Great Movement '
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.795608
